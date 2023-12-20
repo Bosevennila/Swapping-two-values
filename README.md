@@ -29,7 +29,7 @@ a=b
 b=c
 print("Swapped values are:",a,b)
 ```
-output
+## output
 ![image](https://github.com/Bosevennila/Swapping-two-values/assets/144870486/b009e0eb-39fd-4ec5-8ca5-46a73dbcd047)
 
 
